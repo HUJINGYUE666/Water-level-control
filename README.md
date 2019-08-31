@@ -1,2 +1,1 @@
-# water-control
-水位控制页面
+### Vue + ES6 + Node.js + Express + MySQL
